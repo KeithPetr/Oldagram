@@ -64,11 +64,4 @@ function render() {
     }
 }
 
-// function likeClicks() {
-//     let count = 0
-//     if (posts[0].post)
-// }
-
-// likes.addEventListener("dblclick", likeClicks)
-
 render()
